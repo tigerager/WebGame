@@ -1,0 +1,24 @@
+body{
+    font-family: cursive;
+}
+#player{
+    background-color: rgba(34, 177, 77, 0.6);
+    padding: 2%;
+    width: 700px;
+    
+}
+
+.opsi{
+    margin-top: 30px;
+    padding: 2%;
+    background-color: rgba(255, 234, 0, 0.76);
+    cursor: pointer;
+}
+
+.opsi:hover{
+    background-color: aqua;
+}
+
+#pertanyaan{
+    font-size: 20px;
+}
