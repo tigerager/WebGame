@@ -22,3 +22,9 @@ body{
 #pertanyaan{
     font-size: 20px;
 }
+
+@media only screen and (max-width: 740px){
+    #player{
+        width: 95%;
+    }
+}
